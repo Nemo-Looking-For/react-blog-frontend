@@ -1,5 +1,5 @@
 # React Blog
-## Technologies used in development:
+## Technologies used in development Front end:
 ### * ReactJS v18;
 ### * Redux Toolkit;
 ### * React hook form;
